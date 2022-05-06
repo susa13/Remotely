@@ -13,8 +13,8 @@ const Main = styled.div`
   p {
     color: #0047ff;
     font-family: "Poppins";
-    font-weight: 400;
-    font-size: 10px;
+    font-weight: 500;
+    font-size: 11px;
   }
 `;
 const Tag = ({ data }) => {

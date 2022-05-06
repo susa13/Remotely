@@ -10,7 +10,7 @@ const MainDiv = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0px 42px;
+  padding: 0px 42px 10px;
 
   .link {
     text-decoration: none;
